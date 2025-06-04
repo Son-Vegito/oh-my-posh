@@ -56,6 +56,12 @@
                     }
                 },
                 {
+                    "type": "status",
+                    "style": "plain",
+                    "foreground": "p:terminal-red",
+                    "template": "\uf00d "
+                },
+                {
                     "type": "node",
                     "style": "plain",
                     "foreground": "p:pistachio-green",
@@ -99,12 +105,6 @@
                         "command": "git log --pretty=format:%cr -1",
                         "shell": "bash"
                     }
-                },
-                {
-                    "type": "status",
-                    "style": "plain",
-                    "foreground": "p:terminal-red",
-                    "template": " \uf00d"
                 }
             ],
             "type": "prompt"
