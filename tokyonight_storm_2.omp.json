@@ -65,7 +65,7 @@
             "type": "prompt"
         },
         {
-            "alignment": "right",
+            "alignment": "left",
             "overflow": "hide",
             "segments": [
                 {
