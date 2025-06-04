@@ -60,14 +60,7 @@
                     "style": "plain",
                     "foreground": "p:terminal-red",
                     "template": " \uf00d"
-                }
-            ],
-            "type": "prompt"
-        },
-        {
-            "alignment": "left",
-            "overflow": "hide",
-            "segments": [
+                },
                 {
                     "type": "node",
                     "style": "plain",
